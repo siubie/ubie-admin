@@ -1,0 +1,1277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hero",
+				"hero-unit"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"logi",
+				"login_box"
+			],
+			[
+				"login",
+				"login_page"
+			],
+			[
+				"fie",
+				"field_info"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"swi",
+				"switch	switch …"
+			],
+			[
+				"fk",
+				"fk_user_id"
+			],
+			[
+				"tab",
+				"table	Tag"
+			],
+			[
+				"tabl",
+				"TABLE	Tag"
+			],
+			[
+				"users",
+				"user_profiles"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"get_",
+				"get_user_id"
+			],
+			[
+				"fucn",
+				"function"
+			],
+			[
+				"rec",
+				"recruit_model"
+			],
+			[
+				"get_user",
+				"get_user_id"
+			],
+			[
+				"deg",
+				"degree_details"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"select",
+				"select_valuexx"
+			],
+			[
+				"fi",
+				"fixer"
+			],
+			[
+				"fix",
+				"fixer_1"
+			],
+			[
+				"fk_",
+				"fk_id_degree"
+			],
+			[
+				"fk_id_",
+				"fk_id_university"
+			],
+			[
+				"aliance",
+				"aliance_list_fix"
+			],
+			[
+				"expl",
+				"explode"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"captch",
+				"captcha_html"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"lo",
+				"login_area"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"jfl",
+				"jflowslider_settings"
+			],
+			[
+				"jflow",
+				"jflowslider_title"
+			],
+			[
+				"jflo",
+				"jflowslider_title"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"activati",
+				"activation_stuff"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"c",
+				"custom_exit_message"
+			],
+			[
+				"gl",
+				"global_background"
+			],
+			[
+				"fb-",
+				"fb-lead-squeeze-logo"
+			],
+			[
+				"opt",
+				"options_video"
+			],
+			[
+				"wp_post",
+				"wp_postmeta"
+			],
+			[
+				"wp_",
+				"wp_posts"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"wp_p",
+				"wp_post"
+			],
+			[
+				"wp_po",
+				"wp_postmeta"
+			],
+			[
+				"the_p",
+				"the_permalink"
+			],
+			[
+				"alb",
+				"album"
+			],
+			[
+				"al",
+				"album_array"
+			],
+			[
+				"album",
+				"album_array"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"post_t",
+				"post_title"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"the_",
+				"the_band"
+			],
+			[
+				"the",
+				"the_band"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ban",
+				"band_member"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cr",
+				"cr_band_logo"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"sele",
+				"selected_item"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"opti",
+				"options_slider"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"class",
+				"class_names"
+			],
+			[
+				"temp",
+				"tempat_tugas_baru"
+			],
+			[
+				"riwayat_pensiun",
+				"riwayat_pensiun_xls"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"inser",
+				"insertAfter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1972,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dashboard.html",
+			"settings":
+			{
+				"buffer_size": 7435,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.html",
+			"settings":
+			{
+				"buffer_size": 4081,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"selected_items":
+		[
+			[
+				"bootstrap nav",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"tsks",
+				"Tasks: Open URL"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"button",
+				"Snippet: Bootstrap warning button"
+			],
+			[
+				"image",
+				"Snippet: HTML - Image"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"bootstrap",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"bootstrap la",
+				"Snippet: Bootstrap large button"
+			],
+			[
+				"thumb",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"start",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"newfile",
+				"File: New File Relative to Current View"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"fetch ",
+				"Fetch: File"
+			],
+			[
+				"commen",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"starter",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"bootstrap star",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"bootr",
+				"Snippet: Bootstrap pagination"
+			],
+			[
+				"boot thre",
+				"Snippet: Bootstrap basic three column grid"
+			],
+			[
+				"boostrap",
+				"Snippet: Bootstrap basic four column grid"
+			],
+			[
+				"thub",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"four",
+				"Snippet: Bootstrap basic four column grid"
+			],
+			[
+				"bootstra table",
+				"Snippet: Bootstrap tabbable navigation tabs on the right"
+			],
+			[
+				"accor",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"bootstra",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"hero",
+				"Snippet: Bootstrap hero example"
+			],
+			[
+				"boots",
+				"Snippet: Bootstrap basic two column grid"
+			],
+			[
+				"cop",
+				"File: Copy as Tag style"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"navbar",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"bootstrap navbar",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"snippet html",
+				"Snippet: HTML - Meta tags"
+			],
+			[
+				"snippet html fo",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"snippet",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"syntaxphp",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snipp jq",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"feth",
+				"Fetch: Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"sys",
+				"Set Syntax: SQL"
+			],
+			[
+				"snip",
+				"Snippet: <?php echo $this->… ?>"
+			],
+			[
+				"bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"codei",
+				"Code Folding: Unfold All"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/wamp/www/ubieadmin/login.html",
+		"/E/wamp/www/ubieadmin/dashboard.html",
+		"/E/wamp/www/ubieadmin/assets/css/admin.css",
+		"/E/wamp/www/ubieadmin/assets/css/login.css",
+		"/E/wamp/www/jamurmasse/TODO.TODO",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/theme-options.php",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/functions.php",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/options/img/glyphicons/glyphicons_339_pinboard.png",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/functions/custom_store.php",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/User/AdvancedNewFile.sublime-settings",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/options/js/options.js",
+		"/E/wamp/www/jamurmasse/wp-includes/functions.php",
+		"/E/wamp/www/jamurmasse/index.php",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/archive.php",
+		"/E/wamp/www/jamurmasse/wp-content/themes/bandgue/css/skin.css",
+		"/E/wamp/www/curch/wp-content/themes/curch/functions.php",
+		"/E/wamp/www/jamurmasse/wp-content/themes/twentytwelve/nhp-options.php",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/siubie/Documents/cut.txt",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/User/Fetch.sublime-settings",
+		"/E/wamp/www/ubielabs_new/template/index.html",
+		"/E/wamp/www/ubielabs_new/template/css/ubielabs.css",
+		"/E/wamp/www/ubielabs_new/template/js/prefixfree.js",
+		"/E/wamp/www/ubielabs_new/js/prefixfree.js",
+		"/E/wamp/www/ubielabs_new/template/index2.html",
+		"/E/wamp/www/Task Manager.TODO",
+		"/E/wamp/www/ubielabs_new/template/tes.html",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Base File.sublime-settings",
+		"/E/wamp/www/ubielabs_new/template/css/bootstrap-responsive.css",
+		"/E/wamp/www/ubielabs_new/template/css/bootstrap.css",
+		"/E/wamp/www/ubielabs_new/template/dhafuq.html",
+		"/E/wamp/www/ubielabs_new/template/js/jquery.js",
+		"/E/wamp/www/ubielabs_new/template/tes.php",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/README.md",
+		"/E/wamp/www/ubielabs_new/template/__tmp_package.zip",
+		"/E/wamp/www/ubielabs_new/component.json",
+		"/C/Program Files (x86)/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/E/wamp/www/laravel/application/bundles.php",
+		"/E/wamp/www/laravel/public/index.php",
+		"/E/wamp/www/ubieadmin/docs/assets/css/docs.css",
+		"/E/wamp/www/ubieadmin/composer.json",
+		"/E/wamp/www/ubieadmin/package.json",
+		"/E/wamp/www/ubieadmin/assets/css/style.css",
+		"/E/wamp/www/ubieadmin/assets/css/bootstrap.css",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder10.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder9x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder9.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder8x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder8.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder7x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder7.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder6x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder6.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder5x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder5.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder4x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder4.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder3x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder3.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder10x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder1.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder1x.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder2.txt",
+		"/E/eclipse-workspace/stki_fix/result/results/ROUGE/Our Result/Folder2x.txt",
+		"/E/wamp/www/NewsletterMailer/app/plugins/activate/views/activate/index.ctp",
+		"/E/wamp/www/NewsletterMailer/app/locale/default.pot",
+		"/E/wamp/www/laravel/application/config/application.php",
+		"/E/wamp/www/laravel/readme.md",
+		"/E/wamp/www/recruit/application/views/partials/dashboard_sidebar.php",
+		"/E/wamp/www/recruit/application/controllers/dashboard.php",
+		"/E/wamp/www/recruit/application/models/recruit_model.php",
+		"/E/wamp/www/recruit/application/views/view_resume.php",
+		"/E/wamp/www/recruit/assets/css/print_style.css",
+		"/E/wamp/www/recruit/application/models/base_model.php",
+		"/E/wamp/www/recruit/application/config/grocery_crud.php",
+		"/E/wamp/www/recruit/assets/grocery_crud/texteditor/ckeditor/contents.css",
+		"/E/wamp/www/recruit/assets/grocery_crud/texteditor/ckeditor/config.js",
+		"/E/wamp/www/recruit/assets/grocery_crud/js/jquery_plugins/config/jquery.ckeditor.config.js",
+		"/E/wamp/www/recruit/application/libraries/mpdf/mpdf.php",
+		"/E/wamp/www/recruit/application/controllers/authenticate.php",
+		"/E/wamp/www/recruit/application/libraries/Tank_auth.php",
+		"/E/wamp/www/recruit/application/models/grocery_crud_model.php",
+		"/E/wamp/www/recruit/application/views/partials/dashboard_menu.php",
+		"/E/wamp/www/recruit/application/views/formal_education.php",
+		"/E/wamp/www/recruit/application/views/training.php",
+		"/E/wamp/www/recruit/application/views/dependent_dropdown.php",
+		"/E/wamp/www/grocery/examples_database.sql",
+		"/E/wamp/www/recruit/application/views/achievement.php",
+		"/E/wamp/www/recruit/application/views/dashboard.php",
+		"/E/wamp/www/recruit/application/views/example.php",
+		"/E/wamp/www/recruit/application/views/partials/grocery.php",
+		"/E/wamp/www/recruit/application/views/layouts/dashboard.php",
+		"/E/wamp/www/recruit/application/controllers/examples.php",
+		"/E/wamp/www/recruit/application/views/layouts/web.php",
+		"/E/wamp/www/recruit/application/views/partials/web_menu.php",
+		"/E/wamp/www/recruit/application/views/forgot_password.php",
+		"/E/wamp/www/recruit/application/views/login.php",
+		"/E/wamp/www/recruit/application/views/register.php",
+		"/E/wamp/www/recruit/application/views/reset_password.php",
+		"/E/wamp/www/recruit/application/views/result.php",
+		"/E/wamp/www/recruit/application/views/send_again.php",
+		"/E/wamp/www/recruit/application/views/welcome_message.php",
+		"/E/wamp/www/recruit/application/views/layouts/default.php",
+		"/E/wamp/www/recruit/application/views/layouts/logging.php",
+		"/E/wamp/www/recruit/application/views/auth/send_again_form.php",
+		"/E/wamp/www/recruit/application/views/partials/test_partial.php",
+		"/E/wamp/www/recruit/asset/css/style.css",
+		"/E/wamp/www/recruit/application/views/auth/reset_password_form.php",
+		"/E/wamp/www/recruit/application/views/email/forgot_password-html.php",
+		"/E/wamp/www/recruit/application/views/email/forgot_password-txt.php",
+		"/E/wamp/www/recruit/application/views/email/reset_password-html.php",
+		"/E/wamp/www/recruit/application/views/email/change_email-html.php",
+		"/E/wamp/www/recruit/application/views/auth/forgot_password_form.php",
+		"/E/wamp/www/recruit/application/controllers/auth.php",
+		"/E/wamp/www/recruit/html/html/index.html",
+		"/E/wamp/www/recruit/application/controllers/welcome.php",
+		"/E/wamp/www/recruit/application/controllers/index.html",
+		"/E/wamp/www/recruit/application/views/welcome.php",
+		"/E/wamp/www/recruit/application/views/auth/login_form.php",
+		"/E/wamp/www/recruit/application/config/tank_auth.php",
+		"/E/wamp/www/recruit/application/config/routes.php",
+		"/E/wamp/www/recruit/application/config/config.php",
+		"/E/wamp/www/recruit/application/config/database.php",
+		"/E/wamp/www/recruit/application/controllers/tank_auth.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"E:\\wamp\\www\\fb-lead-squeeze\\wp-content\\themes\\Fb_Lead_Squeeze",
+			"E:\\wamp\\www\\grampix\\wp-content\\plugins\\cart66-lite",
+			"E:\\wamp\\www\\grampix\\wp-content\\themes\\grampixTheme",
+			"E:\\wamp\\www\\wp341\\wp-content\\themes\\grampixTheme",
+			"E:\\wamp\\www\\sim\\application",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar",
+			"linkform",
+			"collapse",
+			"upload",
+			"slideDown",
+			"last_tab",
+			"opts",
+			"940",
+			"media",
+			"margin",
+			"-20",
+			"border-bottom",
+			"padding",
+			"nav",
+			"container",
+			"940",
+			"12",
+			"hero",
+			"margin",
+			"navbar",
+			"5px",
+			"https://raw.github.com/twitter/bootstrap/master/js/",
+			"http://twitter.github.com/bootstrap/assets/css/",
+			"https://raw.github.com/twitter/bootstrap/master/",
+			"href",
+			"dropdown-menu li a ",
+			"white",
+			"></\n",
+			"link_reg",
+			"index.ctp",
+			"Go to your account on Codecanyon, You will see a “Download” link and a “License Certificate” link. Click on the “License Certificate” link. After you download it, open it up and there you will see your purchase code.",
+			"Invalide Purchase Code",
+			"activate",
+			"show_captcha",
+			"captcha",
+			"Sorry, we can upload only PNG-images here.",
+			"upload_documents",
+			"callback",
+			"export",
+			"view_resume",
+			"user_profile_id",
+			"money laundering",
+			"                            <",
+			"degree",
+			"if (!defined('_MPDF_PATH')) define('_MPDF_PATH','');",
+			"users",
+			"authenticate",
+			"activate",
+			"authenticate",
+			"create_user",
+			"dd_needed",
+			"dd_url",
+			"alliance",
+			"die",
+			"user_name",
+			"user_id",
+			"get",
+			"<?php echo base_url()?>asset/",
+			"forgot_password",
+			"forgot",
+			"forgot_password",
+			"auth",
+			"autologin",
+			"login",
+			"auth_username_in_use",
+			"die",
+			"di",
+			"die",
+			"send_email",
+			"userna",
+			"usernabe",
+			"auth_username_in_use",
+			"_send_email",
+			"mail_activation",
+			"captcha_case_sensitive",
+			"_check_captcha",
+			"Your confirmation code does not match the one in the image.",
+			"_send_email",
+			"_send_",
+			"_send_mail",
+			"href=\"css/",
+			"src=\"js/",
+			"src=\"images/",
+			"set_partial",
+			"layout",
+			")?>\n",
+			"set_partial",
+			"src=\"asset/",
+			"easing",
+			"lofJSidernews",
+			"width",
+			"rightside",
+			"ul",
+			"js",
+			"Click on the right side of the image to move forward.",
+			"rel=\"lightbox[plants]\"",
+			".html",
+			"[]=6",
+			"fb_fan_page_press_code_multi",
+			"[]=7",
+			"fb_fan_page_press_code_dev",
+			"[]=6",
+			"fb_fan_page_press_code_multi",
+			"fb_fan_page_press_code_dev",
+			"_dev",
+			"fb_fan_page_press_code_single",
+			"&product_id[]=3",
+			"product_id[]=3",
+			"&product_id[]=4",
+			"fb_fan_page_press_code_multi",
+			"&product_id[]=4",
+			"&product_id[]=5",
+			"fb_fan_page_press_code_dev",
+			"register_countdown_button",
+			"add_countdown_button_tinymce_plugin",
+			"admin_interface.css",
+			"admin_interface.js",
+			"support@thecommissionnetwork.com",
+			"#samples",
+			".list",
+			"list",
+			"admin_send",
+			"#ym",
+			"formlogin",
+			"next",
+			"work",
+			"images/work/thumbs/",
+			"work-template.html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"black",
+			"Sorry, we can upload only PNG or JPG -images here.",
+			"<?php echo base_url()?>assets/",
+			"src=\"<?php echo base_url()?>asset/css/",
+			"src=\"<?php echo base_url()?>asset/js/",
+			"src=\"<?php echo base_url()?>asset/images/",
+			"src=\"<?php echo base_url()?>asset/",
+			"Click on the image to view room details",
+			"",
+			"[]=5",
+			"fb_fan_page_press_code",
+			"[]=6",
+			"fb_fan_page_press_code_multi",
+			"[]=7",
+			"fb_fan_page_press_code_dev",
+			"fb_fan_page_press_code_multi",
+			"\nfb_fan_page_press_code_multi",
+			"fb_fan_page_press_code_multi\nfb_fan_page_press_code_multi",
+			"fb_fan_page_press_code\nfb_fan_page_press_code_multi",
+			"&product_id[]=4\nfb_fan_page_press_code_multi",
+			"product_id[]=4\nfb_fan_page_press_code_multi",
+			"&product_id[]=3\nfb_fan_page_press_code_multi",
+			"fb_fan_page_press_code_single",
+			"&product_id[]=3",
+			"&product_id[]=4",
+			"fb_fan_page_press_code_multi",
+			"fbfpg_admin_interface.css",
+			"fbfpg_admin_interface.js",
+			"support@wpsalemachine",
+			"images/",
+			"#",
+			"awshowcasegallery",
+			"awShowcase",
+			"awShowcaseGallery",
+			"jflow-edit-tab-name",
+			"jflowslider-slider",
+			"jQuery",
+			"fb_fan_page_press_",
+			"fb_fan_page_press",
+			"portfolio_",
+			"Portfolio",
+			"_red",
+			"_blue",
+			"_transparent",
+			"_grey",
+			"_black",
+			"'desc' => __('<br>",
+			"_upcoming_event_",
+			"_current_event_",
+			"",
+			"store",
+			"_shop_",
+			"_slide_",
+			"_media_",
+			"\"<? echo IMAGES ?>/",
+			"<strong class=\"ribbon-content\"><?php echo $options['highlight_text']?></strong>",
+			"../wp-content/themes/diet-sehat/img/",
+			"../img/",
+			".ds-twitter-widget",
+			"../img",
+			"",
+			"p",
+			"g8",
+			"f8",
+			"e8",
+			"Hero"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 1972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dashboard.html",
+					"settings":
+					{
+						"buffer_size": 7435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1419,
+								1419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login.html",
+					"settings":
+					{
+						"buffer_size": 4081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3123,
+								3123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"assets/css/style.css"
+			],
+			[
+				"das",
+				"dashboard.html"
+			],
+			[
+				"func",
+				"wp-content/themes/bandgue/functions.php"
+			],
+			[
+				"todo",
+				"TODO.TODO"
+			],
+			[
+				"skin",
+				"wp-content/themes/bandgue/css/skin.css"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"nhp",
+				"wp-content/themes/twentytwelve/nhp-options.php"
+			],
+			[
+				"functi",
+				"wp-includes/functions.php"
+			],
+			[
+				"ubie",
+				"template/css/ubielabs.css"
+			],
+			[
+				"ubi",
+				"template/css/ubielabs.css"
+			],
+			[
+				"inde",
+				"template/index.html"
+			],
+			[
+				"respons",
+				"template/css/bootstrap-responsive.css"
+			],
+			[
+				"bootstrapres",
+				"template/css/bootstrap-responsive.css"
+			],
+			[
+				"boot",
+				"template/css/bootstrap.css"
+			],
+			[
+				"bo",
+				"template/css/bootstrap.css"
+			],
+			[
+				"boostrap",
+				"template/css/bootstrap-responsive.css"
+			],
+			[
+				"css",
+				"template/css/bootstrap.css"
+			],
+			[
+				"dash",
+				"dashboard.html"
+			],
+			[
+				"docs",
+				"docs/assets/css/docs.css"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"log",
+				"login.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}

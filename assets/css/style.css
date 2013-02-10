@@ -1,0 +1,113 @@
+body  {
+	color: #222;
+	padding: 0;
+}
+
+
+    
+html, body  {
+	height:100%;
+}
+
+
+
+
+
+	/* login page */
+		.login_page   {
+			margin-top:120px;
+	 		font-size: 13px;
+	 		background: url("../img/pw_maze_white.png");
+		}
+
+
+		.login_page .login_box  {
+			width:380px;
+			margin:0 auto;
+			background:#fff;
+			border:1px solid #ccc;
+			-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+			-moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+			-ms-box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+			box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+			margin-bottom:10px
+		}
+
+		.login_page .login_logo{
+			font-family: 'Ubuntu',sans-serif;
+			font-size: 24px;
+			text-align: center;
+			margin-top: 10px;
+			color: #333;
+		}
+
+
+		.login_page .content_area  {
+			padding:30px;
+			width:66%;
+			margin:0 auto;
+		}
+
+
+		.login_page form  {
+			margin-bottom:0;
+		}
+
+
+		.login_page .form_footer  {
+			padding:12px 20px;
+			border-top:1px solid #e7e7e7;
+			background:#f7f7f7;
+			-moz-border-radius-topleft: 0px;
+			-moz-border-radius-topright: 0px;
+			-moz-border-radius-bottomright: 6px;
+			-moz-border-radius-bottomleft: 6px;
+			-webkit-border-radius: 0px 0px 6px 6px;
+			border-radius: 0px 0px 6px 6px;
+		}
+
+
+		.login_page .link_footer  {
+			font-size:11px;
+			background:#f9f9f9;
+			text-align:center;
+		}
+
+
+		.login_page .link_register  {
+			font-size:11px;
+			padding:5px 0 0;
+			display:block;
+		}
+
+		/* dashboard */
+		.dashboard   {
+				margin:0px auto;
+		 		font-size: 13px;
+		 		background: url("../img/pw_maze_white.png");
+		}
+		/*navbar*/
+
+	/* fixing search bar query text to middle */
+		.navbar-search .search-query{
+			line-height: normal;
+		}
+	/* forms */
+		.form_row:last-child input,  .formRow:last-child textarea,  .formRow:last-child select,  .uneditable-input  {
+			margin-bottom: 0;
+		}
+
+
+		.form_row small  {
+			display:block;
+			font-size:11px;
+			color:#999;
+			line-height:14px;
+		}
+
+
+		.form_separator  {
+			margin-bottom:12px;
+			padding-bottom:12px;
+			border-bottom:1px dashed #dcdcdc;
+		} 
